@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TuribaServerSwing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TuribaServerSwing_jar</output-path>
+    <root id="archive" name="TuribaServerSwing.jar">
+      <element id="module-output" name="TuribaServerSwing" />
+    </root>
+  </artifact>
+</component>
